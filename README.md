@@ -61,7 +61,7 @@ employee-survey-analysis/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/employee-survey-analysis.git
+git clone https://github.com/Jnaneswari19/employee-survey-analysis.git
 cd employee-survey-analysis
 ```
 
@@ -104,4 +104,3 @@ jupyter notebook notebooks/01_exploratory_data_analysis.ipynb
 Please refer to the `hr_recommendations.md` file for a complete executive summary of the model's findings, including key drivers of satisfaction and targeted interventions for HR leadership.
 
 ---
-*Developed as a demonstration of applied Data Science & Machine Learning in Human Resources.*
